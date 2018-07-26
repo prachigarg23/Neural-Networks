@@ -3,11 +3,8 @@
 This repository contains the following:
 <tr>
 1. Work on MNIST dataset:
-    <br>
    - MLPClassifier 
-    <br>
    - Neural Network using Tensorflow and Keras
-    <br>
    - Convolutional Neural Network using Tensorflow
     <br>
 <br>
