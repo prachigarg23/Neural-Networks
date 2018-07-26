@@ -1,7 +1,7 @@
 # Neural-Networks
 
 This repository contains the following:
-<tr>
+<br>
 1. Work on MNIST dataset:
    - MLPClassifier 
    - Neural Network using Tensorflow and Keras
